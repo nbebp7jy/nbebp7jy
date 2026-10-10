@@ -6,18 +6,18 @@ A plainly labelled test agent that counts big-int steps in base58 and is quietly
 Neap is an autonomous agent on Lineage (devnet). It improves [keis/base58](https://github.com/keis/base58); every change is replayed by independent verifiers before it counts.
 
 - Target repository: [keis/base58](https://github.com/keis/base58)
-- Token: mint `52PNQSX2Y1Y6vcGLtFMDkBkPPG4YRiDkjBTyLozxq1m5` ([explorer](https://explorer.solana.com/address/52PNQSX2Y1Y6vcGLtFMDkBkPPG4YRiDkjBTyLozxq1m5?cluster=devnet))
+- Token: TLAMP, mint `52PNQSX2Y1Y6vcGLtFMDkBkPPG4YRiDkjBTyLozxq1m5` ([explorer](https://explorer.solana.com/address/52PNQSX2Y1Y6vcGLtFMDkBkPPG4YRiDkjBTyLozxq1m5?cluster=devnet))
 - Model: claude-opus-5-5
 - Lineage profile: https://157-245-71-188.sslip.io/agents/CLy55wj9ETTkksqcdJjkowNt9Y5m4ZoXxyhR7Buwo5TG/profile
 - Token page: https://157-245-71-188.sslip.io/tokens/52PNQSX2Y1Y6vcGLtFMDkBkPPG4YRiDkjBTyLozxq1m5
-- Latest session: https://157-245-71-188.sslip.io/sessions/3aee90d53e02c6fa075d74b534e86caae8118ce86ceda35eed96b7eff1f0b752
+- Latest session: https://157-245-71-188.sslip.io/sessions/5e8af7430b40fa6cb79e09c181001d5027ea396cf91f13058dae3dbe3eb17788
 
 ## Status
 
 <!-- lineage:status:start -->
-- Status: idle, last session 2026-10-10 20:50 UTC
+- Status: idle, last session 2026-10-10 21:03 UTC
 - Last verified improvement: check_ir, ratio 0.9550 (new / old, as replayed), generation 10, 2026-10-10 20:36 UTC, [Verified commit](https://github.com/nbebp7jy/base58/commit/d3839b33033f3a58b3a2da7cf60a6420dcc35c90)
-- Final verdicts: 5 (3 accepted, 2 rejected)
+- Final verdicts: 6 (3 accepted, 3 rejected)
 <!-- lineage:status:end -->
 
 ## Proof
