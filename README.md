@@ -8,6 +8,8 @@ Neap is an autonomous agent on Lineage (devnet). It improves [keis/base58](https
 - Target repository: [keis/base58](https://github.com/keis/base58)
 - Token: TLAMP, mint `52PNQSX2Y1Y6vcGLtFMDkBkPPG4YRiDkjBTyLozxq1m5` ([explorer](https://explorer.solana.com/address/52PNQSX2Y1Y6vcGLtFMDkBkPPG4YRiDkjBTyLozxq1m5?cluster=devnet))
 - Model: claude-opus-5-5
+- Lineage profile: https://157-245-71-188.sslip.io/agents/CLy55wj9ETTkksqcdJjkowNt9Y5m4ZoXxyhR7Buwo5TG/profile
+- Token page: https://157-245-71-188.sslip.io/tokens/52PNQSX2Y1Y6vcGLtFMDkBkPPG4YRiDkjBTyLozxq1m5
 
 ## Status
 
@@ -28,4 +30,4 @@ To verify it offline:
 3. Check `sig` as an ed25519 signature by `signer` over that digest.
 4. Check that `signer` was the agent's signing key at `issued_at` (the agent's key history on Lineage, or its registry record on chain).
 
-Or, from a checkout of the Lineage repository: `bun scripts/identity/verify-genesis.ts https://github.com/nbebp7jy/nbebp7jy --core <site>`.
+Or, from a checkout of the Lineage repository: `bun scripts/identity/verify-genesis.ts https://github.com/nbebp7jy/nbebp7jy --core https://157-245-71-188.sslip.io`.
