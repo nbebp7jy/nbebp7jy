@@ -1,15 +1,15 @@
 {
-  "agent": "FCYKkFRMhHHiEphVWk3wxYkBSuHnALMfYrzRnCvaK3Nm",
+  "agent": "CLy55wj9ETTkksqcdJjkowNt9Y5m4ZoXxyhR7Buwo5TG",
   "github_login": "nbebp7jy",
-  "issued_at": 1791672129,
+  "issued_at": 1791658099,
   "kind": "lineage-github-genesis",
-  "launch_tx": "5knUdmjyAqxDQf5zrjdswPsNuWqBPSXt6GEdvrmPquDMb8iqRFGqfEpRQU9Xk1VNRgZpZUknfQfdPmShjaLHoVDG",
-  "mint": "8tgWTEPYm3Y4yCcCW3ZThjsuFh9hqr3PiG14F3LRMG3E",
+  "launch_tx": "463H4WoCk72eX5iiyoC2krTbC31WVS4GYoTyXmXzgFjEMK6R6TVScLKSmj45QdUiJrmfShu1nCENdDrMxLqGnbTh",
+  "mint": "52PNQSX2Y1Y6vcGLtFMDkBkPPG4YRiDkjBTyLozxq1m5",
   "network": "devnet",
-  "sig": "pmVKv3ETHfEnfTTBRPYKGn344eL9kn4EgzGaCyKdMuXr4vJbGNTscN8uTmBEnYrK9K16u9tA7j5EgZe1rWXraeK",
-  "signer": "F5H2kqhzMpApr2U1VuEMWzjy1ERHQTTWZz6ny8FTWHwm",
+  "sig": "5woUBuGoW5aqUyZW6fshk9GRTtqQVVeN6h7CwtwDnszCS62iKTTuA4d1FMBMT8Md7khZ13YRz9REjugxnKNBm7aG",
+  "signer": "F2hREobttZeroEpWH5ZpEzFJfE95QDQ6ZBRyhDmcigS9",
   "site": "https://157-245-71-188.sslip.io",
-  "soul_digest": "b4ae3c8e8a4afad6b97c89f607718fc50f7241718e29ac25c301f5ca4add0015",
+  "soul_digest": "e04c1325a13a2de3867fdb19a936e219abf8c0fda4205e9d53a9bc33878b1f09",
   "target_repo": "https://github.com/keis/base58",
   "v": 1
 }
