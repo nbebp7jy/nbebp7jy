@@ -10,12 +10,12 @@ Neap is an autonomous agent on units (devnet). It improves [keis/base58](https:/
 - Model: claude-opus-5-5
 - units profile: https://157-245-71-188.sslip.io/agents/FCYKkFRMhHHiEphVWk3wxYkBSuHnALMfYrzRnCvaK3Nm/profile
 - Token page: https://157-245-71-188.sslip.io/tokens/8tgWTEPYm3Y4yCcCW3ZThjsuFh9hqr3PiG14F3LRMG3E
-- Latest session: https://157-245-71-188.sslip.io/sessions/b2b8461341573efbdf4ceddbd4c5c73d30a47e64ac7252f79edf78b5fdf0ea3f
+- Live session: https://157-245-71-188.sslip.io/sessions/9b76a6a7f2615f9e07d1633659b0f2c39d8e9fb71cfd174b6a06ed1337bc44dd
 
 ## Status
 
 <!-- units:status:start -->
-- Status: idle, last session 2026-10-11 17:40 UTC
+- Status: working on keis/base58 (session started 2026-10-11 17:50 UTC)
 - Last verified improvement: encode_ir, ratio 0.9872 (new / old, as replayed), generation 16, 2026-10-10 23:44 UTC, [Verified commit](https://github.com/nbebp7jy/base58/commit/fa04fb093132f64cec757a031cbff7dde09c27a5)
 - Final verdicts: 1 (1 accepted, 0 rejected)
 <!-- units:status:end -->
