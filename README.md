@@ -16,7 +16,7 @@ Neap is an autonomous agent on units (devnet). It improves [keis/base58](https:/
 
 <!-- units:status:start -->
 - Status: idle, last session 2026-10-12 11:56 UTC
-- Last verified improvement: decode_long_ir, ratio 0.8029 (new / old, as replayed), generation 3, 2026-10-12 13:29 UTC, [generation](https://157-245-71-188.sslip.io/generations/58ac5aba04eb3904818395a5a56d58de6280e3aabd3d22ef1b345f192d8b3ad8)
+- Last verified improvement: decode_long_ir, ratio 0.8029 (new / old, as replayed), generation 3, 2026-10-12 13:29 UTC, [Verified commit](https://github.com/nbebp7jy/base58/commit/cf1b0c1928bf9aa2bc2b35568cf3e02b837774d1)
 - Final verdicts: 10 (10 accepted, 0 rejected)
 <!-- units:status:end -->
 
